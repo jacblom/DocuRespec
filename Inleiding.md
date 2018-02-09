@@ -1,4 +1,4 @@
-# H1 Aanbieden en opvragen Grondwatermonitoringput BRO	
+# Aanbieden en opvragen Grondwatermonitoringput BRO	
 
 ##	Inleiding
 In de basisregistratie ondergrond (BRO) wordt een aantal typen gegevens geregistreerd, de registratieobjecten. Een van de registratieobjecten is de 'Grondwatermonitoringput'. 
