@@ -1,13 +1,14 @@
 # H1 Aanbieden en opvragen Grondwatermonitoringput BRO	
 
 ##	Inleiding
-In de basisregistratie ondergrond (BRO) wordt een aantal typen gegevens geregistreerd, de registratieobjecten. Een van de registratieobjecten is de grondwatermonitoringput. 
+In de basisregistratie ondergrond (BRO) wordt een aantal typen gegevens geregistreerd, de registratieobjecten. Een van de registratieobjecten is de 'Grondwatermonitoringput'. 
 
 ##	Opbouw documentatie
-Deze documentatie behandelt het aanleveren en opvragen van gegegevens over het registratieobject grondwatermonitoringput. De documentatie is geschreven vanuit zowel functioneel als technisch perspectief.
-De handboeken voor inname en uitgifte van gegevens richten zich op de processen en geven een functionele beschrijving hiervan.
-De koppelvlakbeschrijvingen geven aan op welke manier de aanlevering en uitvraging van gegevens technisch gerealiseerd is. 
-Ze beschrijven de Application Programming Interfaces (API's) van de webservices.Kennis van XML en webservices is daarvoor vereist. 
+Deze documentatie behandelt het aanleveren en opvragen van gegegevens over het registratieobject grondwatermonitoringput. 
+De documentatie is geschreven vanuit zowel functioneel als technisch perspectief.
+* De handboeken voor inname en uitgifte van gegevens richten zich op de processen en geven een functionele beschrijving hiervan.
+* De koppelvlakbeschrijvingen geven aan op welke manier de aanlevering en uitvraging van gegevens technisch gerealiseerd is. 
+Ze beschrijven de Application Programming Interfaces (API's) van de webservices. Kennis van XML en webservices is daarvoor vereist. 
 De teksten zijn echter zo geschreven dat overige belangstellenden de technische werking van het koppelvlak kunnen volgen. 
 
 ## Doel en doelgroep
