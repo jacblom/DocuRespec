@@ -16,7 +16,7 @@ De teksten zijn echter zo geschreven dat overige belangstellenden de technische 
 De handboeken voor inname en uitgifte van gegevens richten zich op:
 * de partijen die grondwatermonitoringput aan de registerbeheerder van de BRO aanbieden
 * de partijen die de grondwatermonitoringput van de BRO willen opvragen
-De handboeken beschrijven hoe de processen voor inname en uitgifte blobaal verlope. Het doel is de leveranciers van gegevens, de dataleveranciers, in algemeen begrijpelijke bewoordingen inzicht te geven in de stappen die in dit proces worden doorlopen, in de begrippenwereld die wordt gehanteerd, in de vormen van controle en in de berichten die tussen de leverancier en de registerbeheerder worden uitgewisseld. 
+De handboeken beschrijven hoe de processen voor inname en uitgifte globaal verlopen. Het doel is de leveranciers van gegevens, de dataleveranciers, in algemeen begrijpelijke bewoordingen inzicht te geven in de stappen die in dit proces worden doorlopen, in de begrippenwereld die wordt gehanteerd, in de vormen van controle en in de berichten die tussen de leverancier en de registerbeheerder worden uitgewisseld. 
 
 De koppelvlakbeschrijvingen voor inname en uitgifte richten zich op:
 * de technisch specialisten die de aansluiting realiseren tussen de systemen van de dataleveranciers en het systeem van de BRO
